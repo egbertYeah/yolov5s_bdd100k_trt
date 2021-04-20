@@ -35,9 +35,9 @@ if you would like to find the detection result with txt file, you can change the
 output deteciton txt information = detection-results(class + conf + center_x + center_y + w + h)
 output video result = result.avi
 ```
-[!](alt image0)(outputs/1.jpg)
+![pic](tensorrt/outputs/1.jpg)
 
-[!](alt image0)(outputs/2.jpg)
+![pic](tensorrt/outputs/2.jpg)
 
 ## mAP testing
 testing mAP in tensorrt with [mAP](https://github.com/Cartucho/mAP.git)
