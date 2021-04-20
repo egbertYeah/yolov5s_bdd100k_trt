@@ -2,7 +2,7 @@
 
 The Pytorch implementation is [ultralytics/yolov5](https://github.com/ultralytics/yolov5).
 
-this reposity is introduced from [tensorrtx/yolov5@1.0](https://github.com/wang-xinyu/tensorrtx/tree/yolov5-v1.0) and suitable for [yolov5-bdd100k](https://github.com/williamhyin/yolov5s_bdd100k)
+this repository is introduced from [tensorrtx/yolov5@1.0](https://github.com/wang-xinyu/tensorrtx/tree/yolov5-v1.0) and suitable for [yolov5-bdd100k](https://github.com/williamhyin/yolov5s_bdd100k)
 
 ## How to Run
 
