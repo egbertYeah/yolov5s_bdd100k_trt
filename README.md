@@ -42,7 +42,7 @@ output video result = result.avi
 ## mAP testing
 testing mAP in tensorrt with [mAP](https://github.com/Cartucho/mAP.git)
 by move the detection-results into mAP/input/detection-results, and `pythons3 main.py`
-For details, see[mAP](https://github.com/Cartucho/mAP)
+For details, see [mAP](https://github.com/Cartucho/mAP)
 ## Config
 
 - Input shape defined in yololayer.h
